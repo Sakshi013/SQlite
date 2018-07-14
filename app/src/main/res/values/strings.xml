@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SQLITE</string>
+    <string name="log_in">LOG IN</string>
+    <string name="email">EMAIL</string>
+    <string name="enter_mail">ENTER MAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="enter_password">ENTER PASSWORD</string>
+    <string name="reset">reset</string>
+    <string name="register">register</string>
+    <string name="sign_up_form">sign up form</string>
+    <string name="enter_your_mail">enter your mail</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="PASSWORD">PASSWORD</string>
+    <string name="phone_no">phone no</string>
+    <string name="enter_phone_no">enter phone no</string>
+    <string name="state">STATE</string>
+    <string name="type">Type</string>
+    <string name="enter_type">enter type</string>
+    <string name="submit_and_save">Submit and save</string>
+    <string name="show_detail">show detail</string>
+    <string name="hlo">hlo</string>
+    <string name="hii">hii</string>
+    <string name="bye">bye</string>
+    <string name="edit_detail">Edit detail</string>
+    <string name="update_mail">update mail</string>
+    <string name="update_password">update password</string>
+    <string name="update">UPDATE</string>
+    <string name="student">student</string>
+    <string name="enter_student">enter student</string>
+    <string name="delete">Delete</string>
+    <string name="delete_data" />
+</resources>
